@@ -1,0 +1,10 @@
+{
+    "colors":
+    {
+        "index_color": [84, 84, 84],
+        "collection_color": [0, 158, 201],
+        "note_color": [255, 236, 115],
+        "checked_color": [39, 173, 35],
+        "unchecked_color": [219, 70, 70]
+    }
+}

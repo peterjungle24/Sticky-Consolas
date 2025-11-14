@@ -1,0 +1,16 @@
+{
+    "Marshaw mod":
+    [
+        {"text": "Make a stealth medallion.", "checked": false},
+        {"text": "Update the Double Jump medallion.", "checked": false},
+        {"text": "Fix the lizard struggling with gravity.", "checked": false},
+        {"text": "Try to do the triangle mesh thing.", "checked": false},
+        {"text": "Rain World", "checked": true}
+    ],
+    "This \"Tool\"":
+    [
+        {"text": "What The Fuck is this tool???", "checked": false},
+        {"text": "Meh, atleast i will put this one where i turn on the laptop.", "checked": true},
+        {"text": "I never had sticky notes but i searched it. its cool.", "checked": true}
+    ]
+}
